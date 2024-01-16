@@ -1,6 +1,6 @@
 # QuizMaster
 
-Welcome to QuizMaster, a React-based quiz application designed to test your knowledge on a variety of topics! Dive into a challenging quiz experience with dynamic questions, a countdown timer, and track your progress to see if you can become the ultimate QuizMaster.
+Welcome to QuizMaster, a React-based quiz application designed to test your knowledge on a variety of concepts of react! Dive into a challenging quiz experience with dynamic questions, a countdown timer, and track your progress to see if you can become the ultimate QuizMaster.
 
 ## Features
 
