@@ -14,5 +14,5 @@ Welcome to QuizMaster, a React-based quiz application designed to test your know
 
 ## Demo
 
-Check out our live demo [here](link-to-live-demo).
+Check out our live demo [here](https://aabid-quiz-app.netlify.app/).
 
